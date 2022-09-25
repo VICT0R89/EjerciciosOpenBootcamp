@@ -29,7 +29,7 @@ public class Main {
             System.out.println(numeroFor);
         }
 
-        var estacion = "VERANO";
+        var estacion = "VErANO";
 
         switch(estacion) {
             case "VERANO":
